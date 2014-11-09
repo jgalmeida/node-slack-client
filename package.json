@@ -1,0 +1,24 @@
+{
+  "name": "node-slack-client",
+  "version": "0.0.0",
+  "description": "node-slack-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:jgalmeida/node-slack-client.git"
+  },
+  "keywords": [
+    "node-slack-client"
+  ],
+  "author": "João Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "request": "~2.47.0",
+    "chai": "~1.9.2",
+    "nock": "~0.48.2",
+    "mocha": "~2.0.1"
+  }
+}

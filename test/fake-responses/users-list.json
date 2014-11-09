@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "U023BECGF",
+      "name": "bobby",
+      "deleted": false,
+      "color": "9f69e7",
+      "profile": {
+        "first_name": "Bobby",
+        "last_name": "Tables",
+        "real_name": "Bobby Tables",
+        "email": "bobby@slack.com",
+        "skype": "my-skype-name",
+        "phone": "+1 (123) 456 7890"
+      },
+      "is_admin": true,
+      "is_owner": true,
+      "has_files": true
+    },
+    {
+      "id": "F02TBEVGF",
+      "name": "foo",
+      "deleted": false,
+      "color": "9f69e7",
+      "profile": {
+        "first_name": "Foo",
+        "last_name": "Tables",
+        "real_name": "Foo Tables",
+        "email": "foo@slack.com",
+        "skype": "my-skype-name",
+        "phone": "+1 (123) 456 7890"
+      },
+      "is_admin": false,
+      "is_owner": false,
+      "has_files": false
+    }
+  ]
+}
